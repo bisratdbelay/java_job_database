@@ -13,7 +13,7 @@ build databse using files in /database folder and the "source" command starting 
 
 place mysql-connector jar file in folder java_job_database
 
-to commpile execute:
+to compile execute:
 
 javac *.java
 
