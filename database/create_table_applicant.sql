@@ -1,3 +1,4 @@
+USE JobSearch;
 CREATE TABLE Applicant (
 ApplicantID int AUTO_INCREMENT PRIMARY KEY,
 FirstName varchar(255),
