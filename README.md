@@ -6,6 +6,7 @@ package java_job_database
 instructions
 
 requires MySQL server running on localhost
+
 requires MySQL-Connector download here: https://dev.mysql.com/downloads/connector/j/
 
 build databse using files in /database folder and the "source" command starting with "create_database.sql"
