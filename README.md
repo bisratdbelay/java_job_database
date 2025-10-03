@@ -15,7 +15,7 @@ place mysql-connector jar file in folder java_job_database
 
 to compile execute:
 
-javac *.java
+javac java_job_database/*.java
 
 to run program execute:
 
